@@ -8,8 +8,7 @@ labels: bug
 **Bug Description**
 
 **Reproduction**
-Steps to reproduce the behavior. 
-If a command failed from the Chalk CLI, include output from running the command with `--verbose`.
+Steps to reproduce the behavior. If a command failed from the Chalk CLI, include output from running the command with `--verbose`.
 
 **Expected Behavior**
 A description of what you expected to happen.
